@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ACA-ASSIGNMENT3/q4/q4.srcs/sources_1/new/mealy.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ACA-ASSIGNMENT3/q4/q4.srcs/sources_1/new/mealy_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy_tb
